@@ -9,6 +9,7 @@ public class Start {
 
 		System.out.println("Personas hola");
 		System.out.println("avance 1");
+		System.out.println("avance 2");
 
 	}
 
